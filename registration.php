@@ -1,7 +1,7 @@
 <?php
 
 include('config/db_connect.php');
-include('models/User.php');
+include('modeli/User.php');
 
 $email = $username = $password = '';
 

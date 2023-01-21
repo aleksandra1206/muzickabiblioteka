@@ -1,7 +1,7 @@
 <?php
 
 include('config/db_connect.php');
-include('models/Song.php');
+include('modeli/Song.php');
 
 $title = $artist = $year = $genre = $country = $album = '';
 
